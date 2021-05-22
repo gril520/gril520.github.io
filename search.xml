@@ -19,14 +19,21 @@
 ]]></content>
   </entry>
   <entry>
-    <title></title>
+    <title>交换机</title>
     <url>/2021/05/22/%E4%BA%A4%E6%8D%A2%E6%9C%BA/</url>
-    <content><![CDATA[<p>title: 交换机</p>
-<p><strong>交换机</strong>（switch）是用来连接多个终端（电脑、手机、打印机），然后帮各个终端来转发数据的。</p>
+    <content><![CDATA[<p><strong>交换机</strong>（switch）是用来连接多个终端（电脑、手机、打印机），然后帮各个终端来转发数据的。</p>
 <p>交换机多为链路层设备（二层交换机），采用存储转发的形式来交换报文。三层交换机工作在网络层。交换机的性能取决于交换机的容量。</p>
 <p>`两台电脑，可以用一根网线直连。</p>
 <p>多台电脑，需要借助交换机进行通信。`</p>
 <p><img src="https://img-blog.csdnimg.cn/20210517162341907.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1ZTIwMDQwMw==,size_16,color_FFFFFF,t_70" alt="img"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2021/05/22/%E9%9A%8F%E7%AC%941/</url>
+    <content><![CDATA[<hr>
+<h2 id="title：随笔"><a href="#title：随笔" class="headerlink" title="title：随笔"></a>title：随笔</h2><p>远赴人间惊鸿宴，一睹人间盛世颜；</p>
+<p>最是人间留不得，朱颜辞镜花辞树。</p>
 ]]></content>
   </entry>
 </search>
